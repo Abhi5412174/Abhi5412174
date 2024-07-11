@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abhishek Sharma<br>👀 I’m interested in coding.<br>🌱 I’m currently learning java and python<br>⚡ Fun fact: I like clicking nature photos.
+👋 Hi, I’m Abhishek Sharma<br>👀 I’m interested in coding.<br>🌱 I’m currently learning java and python<br>⚡ Fun fact: I have a passion for capturing the beauty of nature through my lens.
 
 
 ## 🌐 Socials:
